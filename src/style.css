@@ -1,7 +1,7 @@
 body{
-    background: linear-gradient(109.6deg, rgb(0, 0, 0) 11.2%, rgb(11, 132, 145) 91.1%);;
+    background: linear-gradient(109.6deg, rgb(249, 248, 248) 11.2%, rgb(112, 186, 194) 91.1%);;
 }
 
-h1 {
-    color: azure;
+.personalInfo, h1 {
+    text-align: center;
 }
